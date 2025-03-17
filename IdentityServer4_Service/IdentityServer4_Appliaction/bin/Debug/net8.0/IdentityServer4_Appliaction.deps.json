@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IdentityServer4_Appliaction/1.0.0": {
+        "dependencies": {
+          "IdentityServer4_Application_Contracts": "1.0.0",
+          "IdentityService_Domain": "1.0.0"
+        },
+        "runtime": {
+          "IdentityServer4_Appliaction.dll": {}
+        }
+      },
+      "IdentityServer4_Application_Contracts/1.0.0": {
+        "runtime": {
+          "IdentityServer4_Application_Contracts.dll": {}
+        }
+      },
+      "IdentityService_Domain/1.0.0": {
+        "runtime": {
+          "IdentityService_Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IdentityServer4_Appliaction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IdentityServer4_Application_Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IdentityService_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

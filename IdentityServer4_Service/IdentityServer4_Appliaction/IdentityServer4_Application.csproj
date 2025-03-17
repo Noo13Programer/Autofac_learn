@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IdentityServer4_Application_Contracts\IdentityServer4_Application_Contracts.csproj" />
+    <ProjectReference Include="..\IdentityService_Domain\IdentityServer4_Domain.csproj" />
+  </ItemGroup>
+
+</Project>

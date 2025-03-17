@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gtg5wbcsh8DblsmZ+B+qwK2zBKI0LxnMl0Xu7lyKOlg=",
+  "Source": "IdentityServer4_WebApi",
+  "BasePath": "_content/IdentityServer4_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

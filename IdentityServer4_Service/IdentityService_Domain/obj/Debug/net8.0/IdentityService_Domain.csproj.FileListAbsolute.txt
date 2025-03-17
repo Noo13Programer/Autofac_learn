@@ -1,0 +1,11 @@
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\bin\Debug\net8.0\IdentityService_Domain.deps.json
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\bin\Debug\net8.0\IdentityService_Domain.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\bin\Debug\net8.0\IdentityService_Domain.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\obj\Debug\net8.0\IdentityService_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\obj\Debug\net8.0\IdentityService_Domain.AssemblyInfoInputs.cache
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\obj\Debug\net8.0\IdentityService_Domain.AssemblyInfo.cs
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\obj\Debug\net8.0\IdentityService_Domain.csproj.CoreCompileInputs.cache
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\obj\Debug\net8.0\IdentityService_Domain.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\obj\Debug\net8.0\refint\IdentityService_Domain.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\obj\Debug\net8.0\IdentityService_Domain.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityService_Domain\obj\Debug\net8.0\ref\IdentityService_Domain.dll

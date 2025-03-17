@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB06BE-210B-4914-BF06-60BB5733970E}|..\\IdentityServer4_Appliaction\\IdentityServer4_Appliaction.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityserver4_appliaction\\identityresource\\identityresourceappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49C756E-1B54-473B-8513-9D41AD3B3075}|..\\IdentityService_Domain\\IdentityServer4_Domain.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityservice_domain\\identityserver4_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityserver4_webapi\\identityserver4_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:identityserver4_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityserver4_webapi\\autofac\\autofacmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:autofac\\autofacmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB06BE-210B-4914-BF06-60BB5733970E}|..\\IdentityServer4_Appliaction\\IdentityServer4_Appliaction.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityserver4_appliaction\\identityservice4service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49C756E-1B54-473B-8513-9D41AD3B3075}|..\\IdentityService_Domain\\IdentityServer4_Domain.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityservice_domain\\lifetime\\itransientdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49C756E-1B54-473B-8513-9D41AD3B3075}|..\\IdentityService_Domain\\IdentityService_Domain.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityservice_domain\\lifetime\\isingletondependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49C756E-1B54-473B-8513-9D41AD3B3075}|..\\IdentityService_Domain\\IdentityService_Domain.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityservice_domain\\lifetime\\iscopedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19335\\AppData\\Local\\SourceServer\\2f4c3ef6a4953fdd3d30f0b9ff0fc831ba844ea0258ed442fe3d0f4f003a63c6\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Reflection\\RuntimeAssembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A3B074-55EF-425C-8A97-CFBBCC6D9A70}|..\\IdentityServer4_Application_Contracts\\IdentityServer4_Application_Contracts.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityserver4_application_contracts\\identityresource\\iidentityresourceappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityserver4_webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19335\\AppData\\Local\\Temp\\.vsdbgsrc\\62cf66dfa02363a5c2cc8c44dd0118d3ef907ce6a3972e967d8a8f44f47d5c54\\ResolutionExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\seedcontributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:seedcontributer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBB06BE-210B-4914-BF06-60BB5733970E}|..\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj|d:\\a\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\ids4\\identityserver4_service\\identityserver4_appliaction\\identityserver4_application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\19335\\AppData\\Local\\Temp\\.vsdbgsrc\\757f24738a3cb57db1f811170822ff5041b2d1077885b6775612207d9121427e\\RegistrationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\samesitecookiesservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:samesitecookiesservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\data\\migrations\\identityserver\\configurationdb\\configurationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:data\\migrations\\identityserver\\configurationdb\\configurationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Data\\Migrations\\IdentityServer\\ConfigurationDb\\20250314025122_InitialIdentityServerConfigurationDbMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:Data\\Migrations\\IdentityServer\\ConfigurationDb\\20250314025122_InitialIdentityServerConfigurationDbMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Data\\Migrations\\IdentityServer\\PersistedGrantDb\\20250314025047_InitialIdentityServerPersistedGrantDbMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6806CC41-0351-4344-A011-6FE9CB9A527A}|IdentityServer4_WebApi.csproj|solutionrelative:Data\\Migrations\\IdentityServer\\PersistedGrantDb\\20250314025047_InitialIdentityServerPersistedGrantDbMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityServer4_Domain",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\IdentityServer4_Domain.csproj",
+              "RelativeDocumentMoniker": "..\\IdentityService_Domain\\IdentityServer4_Domain.csproj",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\IdentityServer4_Domain.csproj",
+              "RelativeToolTip": "..\\IdentityService_Domain\\IdentityServer4_Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T02:23:24.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityResourceAppService.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityResource\\IdentityResourceAppService.cs",
+              "RelativeDocumentMoniker": "..\\IdentityServer4_Appliaction\\IdentityResource\\IdentityResourceAppService.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityResource\\IdentityResourceAppService.cs",
+              "RelativeToolTip": "..\\IdentityServer4_Appliaction\\IdentityResource\\IdentityResourceAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:29:59.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T09:17:58.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutofacModule.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\AutoFac\\AutofacModule.cs",
+              "RelativeDocumentMoniker": "AutoFac\\AutofacModule.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\AutoFac\\AutofacModule.cs",
+              "RelativeToolTip": "AutoFac\\AutofacModule.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:07:30.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RuntimeAssembly.cs",
+              "DocumentMoniker": "C:\\Users\\19335\\AppData\\Local\\SourceServer\\2f4c3ef6a4953fdd3d30f0b9ff0fc831ba844ea0258ed442fe3d0f4f003a63c6\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Reflection\\RuntimeAssembly.cs",
+              "ToolTip": "C:\\Users\\19335\\AppData\\Local\\SourceServer\\2f4c3ef6a4953fdd3d30f0b9ff0fc831ba844ea0258ed442fe3d0f4f003a63c6\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Reflection\\RuntimeAssembly.cs",
+              "ViewState": "AQIAAJYBAAAAAAAAAAAewKMBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:15:36.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IScopeDependency.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\LifeTime\\IScopeDependency.cs",
+              "RelativeDocumentMoniker": "..\\IdentityService_Domain\\LifeTime\\IScopeDependency.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\LifeTime\\IScopeDependency.cs",
+              "RelativeToolTip": "..\\IdentityService_Domain\\LifeTime\\IScopeDependency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:19:21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityService4Service.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityService4Service.cs",
+              "RelativeDocumentMoniker": "..\\IdentityServer4_Appliaction\\IdentityService4Service.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityService4Service.cs",
+              "RelativeToolTip": "..\\IdentityServer4_Appliaction\\IdentityService4Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:13:53.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeedContributer.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\SeedContributer.cs",
+              "RelativeDocumentMoniker": "SeedContributer.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\SeedContributer.cs",
+              "RelativeToolTip": "SeedContributer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:49:52.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityServer4_WebApi.csproj",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\IdentityServer4_WebApi.csproj",
+              "RelativeDocumentMoniker": "IdentityServer4_WebApi.csproj",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\IdentityServer4_WebApi.csproj",
+              "RelativeToolTip": "IdentityServer4_WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T09:17:36.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransientDependency.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\LifeTime\\ITransientDependency.cs",
+              "RelativeDocumentMoniker": "..\\IdentityService_Domain\\LifeTime\\ITransientDependency.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\LifeTime\\ITransientDependency.cs",
+              "RelativeToolTip": "..\\IdentityService_Domain\\LifeTime\\ITransientDependency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:21:10.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISingletonDependency.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\LifeTime\\ISingletonDependency.cs",
+              "RelativeDocumentMoniker": "..\\IdentityService_Domain\\LifeTime\\ISingletonDependency.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\LifeTime\\ISingletonDependency.cs",
+              "RelativeToolTip": "..\\IdentityService_Domain\\LifeTime\\ISingletonDependency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:19:57.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IIdentityResourceAppService.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_Application_Contracts\\IdentityResource\\IIdentityResourceAppService.cs",
+              "RelativeDocumentMoniker": "..\\IdentityServer4_Application_Contracts\\IdentityResource\\IIdentityResourceAppService.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_Application_Contracts\\IdentityResource\\IIdentityResourceAppService.cs",
+              "RelativeToolTip": "..\\IdentityServer4_Application_Contracts\\IdentityResource\\IIdentityResourceAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:53:35.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvw8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:29:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwFwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:21:22.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResolutionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\19335\\AppData\\Local\\Temp\\.vsdbgsrc\\62cf66dfa02363a5c2cc8c44dd0118d3ef907ce6a3972e967d8a8f44f47d5c54\\ResolutionExtensions.cs",
+              "ToolTip": "C:\\Users\\19335\\AppData\\Local\\Temp\\.vsdbgsrc\\62cf66dfa02363a5c2cc8c44dd0118d3ef907ce6a3972e967d8a8f44f47d5c54\\ResolutionExtensions.cs [\u53EA\u8BFB]",
+              "ViewState": "AQIAAFcDAAAAAAAAAAAvwGcDAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:15:55.594Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IdentityServer4_Application.csproj",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj",
+              "RelativeDocumentMoniker": "..\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj",
+              "RelativeToolTip": "..\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T06:29:25.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistrationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\19335\\AppData\\Local\\Temp\\.vsdbgsrc\\757f24738a3cb57db1f811170822ff5041b2d1077885b6775612207d9121427e\\RegistrationBuilder.cs",
+              "ToolTip": "C:\\Users\\19335\\AppData\\Local\\Temp\\.vsdbgsrc\\757f24738a3cb57db1f811170822ff5041b2d1077885b6775612207d9121427e\\RegistrationBuilder.cs [\u53EA\u8BFB]",
+              "ViewState": "AQIAADMAAAAAAAAAAAAvwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:33:40.914Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250314025047_InitialIdentityServerPersistedGrantDbMigration.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Data\\Migrations\\IdentityServer\\PersistedGrantDb\\20250314025047_InitialIdentityServerPersistedGrantDbMigration.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\IdentityServer\\PersistedGrantDb\\20250314025047_InitialIdentityServerPersistedGrantDbMigration.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Data\\Migrations\\IdentityServer\\PersistedGrantDb\\20250314025047_InitialIdentityServerPersistedGrantDbMigration.cs",
+              "RelativeToolTip": "Data\\Migrations\\IdentityServer\\PersistedGrantDb\\20250314025047_InitialIdentityServerPersistedGrantDbMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:50:47.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SameSiteCookiesServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\SameSiteCookiesServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "SameSiteCookiesServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\SameSiteCookiesServiceCollectionExtensions.cs",
+              "RelativeToolTip": "SameSiteCookiesServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:42:30.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250314025122_InitialIdentityServerConfigurationDbMigration.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Data\\Migrations\\IdentityServer\\ConfigurationDb\\20250314025122_InitialIdentityServerConfigurationDbMigration.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\IdentityServer\\ConfigurationDb\\20250314025122_InitialIdentityServerConfigurationDbMigration.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Data\\Migrations\\IdentityServer\\ConfigurationDb\\20250314025122_InitialIdentityServerConfigurationDbMigration.cs",
+              "RelativeToolTip": "Data\\Migrations\\IdentityServer\\ConfigurationDb\\20250314025122_InitialIdentityServerConfigurationDbMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:51:23.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfigurationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Data\\Migrations\\IdentityServer\\ConfigurationDb\\ConfigurationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\IdentityServer\\ConfigurationDb\\ConfigurationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\A\u4E2A\u4EBA\u6D4B\u8BD5\u9879\u76EE\\Ids4\\IdentityServer4_Service\\IdentityServer4_WebApi\\Data\\Migrations\\IdentityServer\\ConfigurationDb\\ConfigurationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\IdentityServer\\ConfigurationDb\\ConfigurationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:51:48.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

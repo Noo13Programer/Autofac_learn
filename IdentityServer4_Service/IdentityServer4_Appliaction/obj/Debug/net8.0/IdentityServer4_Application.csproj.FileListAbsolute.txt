@@ -1,0 +1,17 @@
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Application.deps.json
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Application.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Application.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Application_Contracts.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Application_Contracts.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Application.csproj.AssemblyReference.cache
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Application.AssemblyInfoInputs.cache
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Application.AssemblyInfo.cs
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Application.csproj.CoreCompileInputs.cache
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\Identity.731D71EE.Up2Date
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Application.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\refint\IdentityServer4_Application.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Application.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\ref\IdentityServer4_Application.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Domain.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Domain.pdb

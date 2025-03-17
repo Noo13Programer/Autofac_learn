@@ -1,0 +1,17 @@
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Appliaction.deps.json
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Appliaction.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Appliaction.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Appliaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Appliaction.AssemblyInfoInputs.cache
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Appliaction.AssemblyInfo.cs
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Appliaction.csproj.CoreCompileInputs.cache
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Appliaction.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\refint\IdentityServer4_Appliaction.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Appliaction.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\ref\IdentityServer4_Appliaction.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Application_Contracts.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityService_Domain.dll
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityServer4_Application_Contracts.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\bin\Debug\net8.0\IdentityService_Domain.pdb
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\IdentityServer4_Appliaction.csproj.AssemblyReference.cache
+D:\A个人测试项目\Ids4\IdentityServer4_Service\IdentityServer4_Appliaction\obj\Debug\net8.0\Identity.B8296337.Up2Date

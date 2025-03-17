@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj": {}
+  },
+  "projects": {
+    "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj",
+        "projectName": "IdentityServer4_Application",
+        "projectPath": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\IdentityServer4_Application.csproj",
+        "packagesPath": "C:\\Users\\19335\\.nuget\\packages\\",
+        "outputPath": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Appliaction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\19335\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://nuget.cdn.azure.cn/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Application_Contracts\\IdentityServer4_Application_Contracts.csproj": {
+                "projectPath": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Application_Contracts\\IdentityServer4_Application_Contracts.csproj"
+              },
+              "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\IdentityServer4_Domain.csproj": {
+                "projectPath": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\IdentityServer4_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Application_Contracts\\IdentityServer4_Application_Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Application_Contracts\\IdentityServer4_Application_Contracts.csproj",
+        "projectName": "IdentityServer4_Application_Contracts",
+        "projectPath": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Application_Contracts\\IdentityServer4_Application_Contracts.csproj",
+        "packagesPath": "C:\\Users\\19335\\.nuget\\packages\\",
+        "outputPath": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityServer4_Application_Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\19335\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://nuget.cdn.azure.cn/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\IdentityServer4_Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\IdentityServer4_Domain.csproj",
+        "projectName": "IdentityServer4_Domain",
+        "projectPath": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\IdentityServer4_Domain.csproj",
+        "packagesPath": "C:\\Users\\19335\\.nuget\\packages\\",
+        "outputPath": "D:\\A个人测试项目\\Ids4\\IdentityServer4_Service\\IdentityService_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\19335\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://nuget.cdn.azure.cn/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Cnblogs.IdentityServer4": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
